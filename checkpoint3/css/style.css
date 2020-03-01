@@ -1,0 +1,49 @@
+body{
+    background:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    padding: 0;
+    margin: 0;
+}
+ul{
+    margin-bottom: 0;
+}
+h1{color: aliceblue;}
+li{
+    font-size: 35px;
+    display: inline-block;
+    color: aliceblue;
+    }
+.navItem{
+    margin-left: 15%;
+    margin-bottom: 20px;
+}
+a{
+    color:inherit;
+    text-decoration: none;
+}
+.images{width: 100%;}
+iframe{margin-left:30% ;}
+#logo{
+    width: 70px;
+    margin-top: 20px;
+}
+.back{
+    height: 400px;
+    background-image: url("../image/cr.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.c{
+    margin:20px;
+    width: 26%;
+    height: 300px;
+    display: inline-block;
+}
+.fb{height:200px}
+h2{color: aliceblue;}
